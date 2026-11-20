@@ -1,0 +1,109 @@
+body{
+    background-color: rgb(209, 116, 183);
+    padding: 30px;
+    font-size: 20px;
+}
+
+.title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h4{
+    font-size: 24px;
+}
+
+.logo {
+    margin-bottom: 0;
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
+.bilde1{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 0;
+    max-width: 250px;
+    margin-left: 10px;
+    border: 6px solid rgb(204, 0, 204);
+}
+
+.parag1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 20px;
+    justify-content: center;
+}
+
+.parag2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 20px;
+    justify-content: center;
+}
+
+.paragannet{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 20px;
+    justify-content: center;
+}
+
+
+.text{
+    width: 100%;
+    font-size: 20px;
+    max-width: 450px;
+    height: auto;
+    padding: 15px;
+    border: 6px solid rgb(204, 0, 204);
+    background-color: rgb(75, 195, 181);
+}
+
+.aktivitetarrow{
+    display: flex;
+    margin-top: 10px;
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+    justify-content: center;
+    justify-self: center;
+    color: blue;
+    text-decoration: underline;
+    background-color: rgb(224, 108, 191);
+    border: 6px solid rgb(204, 0, 204);
+    margin-bottom: 20px;
+
+}
+
+.aktivitetsect{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 20px;
+    justify-content: center;
+    border: 6px solid rgb(197, 68, 160);
+    background-color: rgb(204, 0, 204);
+}
+
+.activitiesparg{
+    width: 100%;
+    padding: 15px;
+    margin: 15px;
+    max-width: 450px;
+    height: auto;
+    border: 6px solid rgb(209, 116, 183);
+    background-color: rgb(75, 195, 181);
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
